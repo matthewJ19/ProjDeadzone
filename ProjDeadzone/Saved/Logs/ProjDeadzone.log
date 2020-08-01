@@ -2368,3 +2368,325 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.01-21.09.10:331][115]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/matth/Documents/GitHub/ProjDeadzone'
 [2020.08.01-21.09.10:331][115]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/matth/Documents/GitHub/ProjDeadzone'
 [2020.08.01-21.09.10:799][115]EditorErrors: Warning: No assets to check in!
+[2020.08.01-21.09.53:400][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.01-21.09.55:006][492]LogConcert: Display: Synced activity '53' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.09.55:178][508]LogConcert: Display: Synced activity '54' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.09.55:178][508]LogConcert: Display: Synced activity '55' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.09.55:933][597]LogConcert: Display: Synced activity '56' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.09.56:953][712]LogConcert: Display: Synced activity '57' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.09.56:953][712]LogConcert: Display: Synced activity '58' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.09.58:322][859]Cmd: TRANSACTION UNDO
+[2020.08.01-21.09.58:322][859]LogEditorTransaction: Undo Move Actors
+[2020.08.01-21.09.58:582][864]LogConcert: Display: Synced activity '59' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.09.58:898][876]Cmd: TRANSACTION UNDO
+[2020.08.01-21.09.58:898][876]LogEditorTransaction: Undo Move Actors
+[2020.08.01-21.09.59:043][891]LogConcert: Display: Synced activity '60' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.10.15:527][524]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/matth/Documents/GitHub/ProjDeadzone'
+[2020.08.01-21.10.17:524][732]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.01-21.10.17:530][732]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.01-21.10.18:894][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.01-21.10.18:905][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.08.01-21.10.18:927][877]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap92A8CD2A48E07E4948C6AD8B53504798.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap'
+[2020.08.01-21.10.19:110][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap_BuiltData" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset" SILENT=true
+[2020.08.01-21.10.19:126][877]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap_BuiltData210B18574789BE70A6AA318EE1067EB4.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset'
+[2020.08.01-21.10.19:258][877]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.01-21.10.19:258][877]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2020.08.01-21.10.19:258][877]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DevMap_BuiltData.DevMap_BuiltData
+[2020.08.01-21.10.21:020][ 78]LogConcert: Display: Synced activity '61' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap.
+[2020.08.01-21.10.22:528][244]LogConcert: Display: Synced activity '62' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.11.10:229][921]LogConcert: Display: Synced activity '63' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor in /Game/Maps/DevMap.
+[2020.08.01-21.11.14:689][432]LogConcert: Display: Synced activity '64' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.11.14:887][454]LogConcert: Display: Synced activity '65' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor in /Game/Maps/DevMap.
+[2020.08.01-21.11.15:155][485]LogConcert: Display: Synced activity '66' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.11.15:156][485]LogConcert: Display: Synced activity '67' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.11.17:751][766]LogConcert: Display: Synced activity '68' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor in /Game/Maps/DevMap.
+[2020.08.01-21.11.20:095][  8]EditorErrors: New page: Actor attachment
+[2020.08.01-21.11.20:230][ 23]LogConcert: Display: Synced activity '69' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other action.
+[2020.08.01-21.11.21:927][218]LogConcert: Display: Synced activity '70' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.11.23:829][401]LogConcert: Display: Synced activity '71' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.11.23:830][401]LogConcert: Display: Synced activity '72' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.11.24:002][420]LogConcert: Display: Synced activity '73' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other action.
+[2020.08.01-21.11.34:136][605]MapCheck: New page: Map Check
+[2020.08.01-21.11.34:159][605]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.01-21.11.34:159][605]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.01-21.11.34:278][605]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=false
+[2020.08.01-21.11.34:284][605]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.01-21.11.34:284][605]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.01-21.11.34:284][605]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.01-21.11.34:294][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.08.01-21.11.34:297][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:299][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:301][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:302][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:304][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.01-21.11.34:304][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.01-21.11.34:304][605]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.01-21.11.34:304][605]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.01-21.11.34:304][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:307][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:309][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:310][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.34:312][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.01-21.11.36:859][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.01-21.11.36:859][605]TextureStreamingBuild: Display: Compiling optional shaders took 2.561 seconds.
+[2020.08.01-21.11.36:863][605]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2020.08.01-21.11.36:864][605]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2020.08.01-21.11.36:873][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.08.01-21.11.36:876][605]LightingResults: New page: Lighting Build - Aug 1, 2020, 1:11:36 PM
+[2020.08.01-21.11.36:895][605]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.01-21.11.36:898][605]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.01-21.11.36:898][605]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.01-21.11.36:899][605]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.01-21.11.36:899][605]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2664
+[2020.08.01-21.11.41:550][605]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.01-21.11.41:550][605]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.01-21.11.41:550][605]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.01-21.11.41:550][605]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.01-21.11.41:550][605]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.01-21.11.41:550][605]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.01-21.11.41:674][605]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.01-21.11.41:674][605]MapCheck: New page: DevMap - Aug 1, 2020, 1:11:41 PM
+[2020.08.01-21.11.41:674][605]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.08.01-21.11.41:674][605]MapCheck: Warning: DesktopPresence_C_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.08.01-21.11.41:674][605]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 0.531ms to complete.
+[2020.08.01-21.11.41:676][605]LogEditorBuildUtils: Build time 0:07
+[2020.08.01-21.11.42:242][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.08.01-21.11.42:907][608]LogConcert: Display: Synced activity '74' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.11.44:267][612]Job is a success!
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.01-21.11.44:744][613]LogVolumetricLightmapImport:          DevMap 			 6 bricks 	 100.0% (Persistent Level)
+[2020.08.01-21.11.44:809][613]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.08.01-21.11.44:809][613]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.08.01-21.11.44:809][613]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.08.01-21.11.44:809][613]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.08.01-21.11.44:809][613]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.08.01-21.11.44:809][613]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2020.08.01-21.11.44:809][613]LogStaticLightingSystem: DevMap_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2020.08.01-21.11.44:823][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.01-21.11.44:847][613]Lightmass on DESKTOP-ODFKQ1R: 1.57 sec total, 167 ms importing, 20 ms setup, 67 ms photons, 1.24 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.71 sec total, 365 ms processing.
+[2020.08.01-21.11.44:856][613]LogStaticLightingSystem: Illumination: 7.65 sec (35 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2020.08.01-21.11.44:856][613]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.08.01-21.11.44:856][613]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.08.01-21.11.45:555][613]DumpUnbuiltLightIteractions
+[2020.08.01-21.11.45:555][613]Lights with unbuilt interactions: 0
+[2020.08.01-21.11.45:555][613]
+[2020.08.01-21.11.45:555][613]Primitives with unbuilt interactions: 0
+[2020.08.01-21.11.45:630][614]LogConcert: Display: Synced activity '75' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.11.45:631][614]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.01-21.11.45:631][614]MapCheck: New page: DevMap - Aug 1, 2020, 1:11:45 PM
+[2020.08.01-21.11.45:644][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 13.394ms to complete.
+[2020.08.01-21.11.46:887][693]LogSlate: Window 'Message Log' being destroyed
+[2020.08.01-21.11.46:899][693]LogSlate: Window 'Message Log' being destroyed
+[2020.08.01-21.11.48:759][820]LogConcert: Display: Synced activity '76' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.11.48:760][820]LogConcert: Display: Synced activity '77' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.09:052][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.01-21.13.09:062][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.08.01-21.13.09:084][898]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap585730AA429B42D3841B1A9A70908848.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap'
+[2020.08.01-21.13.09:174][898]LogFileHelpers: Saving map 'DevMap' took 0.123
+[2020.08.01-21.13.09:174][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap_BuiltData" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset" SILENT=true
+[2020.08.01-21.13.09:191][898]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap_BuiltDataF2E84800430D129DB6A242B130C45DED.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset'
+[2020.08.01-21.13.09:331][898]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.01-21.13.09:332][898]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2020.08.01-21.13.09:332][898]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DevMap_BuiltData.DevMap_BuiltData
+[2020.08.01-21.13.16:717][180]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2020.08.01-21.13.16:733][180]LogConcert: [Pending] Persisting Session Changes
+[2020.08.01-21.13.16:748][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.08.01-21.13.16:873][180]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap5F5AD2B8428248365B6F6A81AEE04D58.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap'
+[2020.08.01-21.13.17:855][180]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2020.08.01-21.13.17:855][180]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2020.08.01-21.13.17:859][180]AssetCheck: New page: Asset Save: DevMap
+[2020.08.01-21.13.17:859][180]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2020.08.01-21.13.17:960][181]LogConcert: Display: Synced activity '78' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap.
+[2020.08.01-21.13.18:074][181]LogConcert: Display: Synced activity '79' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.13.18:074][181]LogConcert: Display: Synced activity '80' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.13.23:405][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.08.01-21.13.25:610][ 20]LogConcert: Display: Synced activity '81' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.25:947][ 48]LogConcert: Display: Synced activity '82' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.25:947][ 48]LogConcert: Display: Synced activity '83' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.27:348][207]LogConcert: Display: Synced activity '84' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.27:585][233]LogConcert: Display: Synced activity '85' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.27:585][233]LogConcert: Display: Synced activity '86' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.29:951][509]LogConcert: Display: Synced activity '87' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.30:233][539]LogConcert: Display: Synced activity '88' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.30:233][539]LogConcert: Display: Synced activity '89' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.33:082][874]LogConcert: Display: Synced activity '90' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.33:879][964]LogConcert: Display: Synced activity '91' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.33:879][964]LogConcert: Display: Synced activity '92' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.42:665][960]LogConcert: Display: Synced activity '93' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.43:613][ 66]LogConcert: Display: Synced activity '94' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.43:613][ 66]LogConcert: Display: Synced activity '95' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.46:430][367]LogConcert: Display: Synced activity '96' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.48:189][565]LogConcert: Display: Synced activity '97' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric modified Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.48:190][565]LogConcert: Display: Synced activity '98' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked Cube_2.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.51:332][932]LogConcert: Display: Synced activity '99' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney locked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.54:021][231]LogConcert: Display: Synced activity '100' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.54:023][231]LogConcert: Display: Synced activity '101' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney unlocked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.54:811][309]LogConcert: Display: Synced activity '102' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney locked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.13.55:114][344]LogConcert: Display: Synced activity '103' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney modified Floor.StaticMeshComponent0 in /Game/Maps/DevMap.
+[2020.08.01-21.13.55:115][344]LogConcert: Display: Synced activity '104' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney unlocked Floor.StaticMeshComponent0 in /Game/Maps/DevMap, plus 1 other resource.
+[2020.08.01-21.14.25:588][475]LogConcert: Display: Synced activity '105' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney locked /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.14.25:631][479]LogConcert: Display: Synced activity '106' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney deleted Cube_2 in /Game/Maps/DevMap.
+[2020.08.01-21.14.32:315][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.01-21.14.32:327][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.08.01-21.14.32:373][260]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap6318400D4029F179F2339EB893CF78FA.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap'
+[2020.08.01-21.14.32:544][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap_BuiltData" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset" SILENT=true
+[2020.08.01-21.14.37:667][260]LogSlate: Window 'Message' being destroyed
+[2020.08.01-21.14.37:673][260]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Maps/DevMap_BuiltData' (DevMap_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2020.08.01-21.14.37:674][260]EditorErrors: New page: Save Output
+[2020.08.01-21.14.37:675][260]EditorErrors: Warning: Package /Game/Maps/DevMap_BuiltData currently locked by another user.
+[2020.08.01-21.14.37:675][260]EditorErrors: Warning: Asset '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset' is not allowed to save (see log for reason)
+[2020.08.01-21.14.37:746][260]AssetCheck: New page: Asset Save: DevMap
+[2020.08.01-21.14.37:746][260]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2020.08.01-21.14.37:835][261]LogConcert: Display: Synced activity '107' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap.
+[2020.08.01-21.14.39:036][391]LogConcert: Display: Synced activity '108' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney saved package /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.14.39:052][391]LogConcert: Display: Synced activity '109' produced by endpoint 'DE6CD657496FFBAA8E99F5B09E58A3F0': Looney unlocked /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.14.39:053][391]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Maps/DevMap_BuiltData
+[2020.08.01-21.14.39:091][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.08.01-21.14.39:268][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.01-21.14.40:464][532]LogSlate: Window 'Message Log' being destroyed
+[2020.08.01-21.14.40:470][532]LogSlate: Window 'Message Log' being destroyed
+[2020.08.01-21.14.41:348][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.01-21.14.41:358][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.01-21.14.41:376][623]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap0462894D456212C1543BD5B4397FAB9D.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap'
+[2020.08.01-21.14.41:544][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap_BuiltData" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset" SILENT=true
+[2020.08.01-21.14.41:563][623]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap_BuiltData64B82BC540C60B20E7DB82A8468A9B9A.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset'
+[2020.08.01-21.14.41:686][623]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.01-21.14.41:686][623]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2020.08.01-21.14.41:686][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DevMap_BuiltData.DevMap_BuiltData
+[2020.08.01-21.14.43:301][804]LogConcert: Display: Synced activity '110' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap.
+[2020.08.01-21.14.44:775][971]MapCheck: New page: Map Check
+[2020.08.01-21.14.44:790][971]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.01-21.14.44:790][971]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.01-21.14.44:922][971]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=false
+[2020.08.01-21.14.44:930][971]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.01-21.14.44:930][971]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.01-21.14.44:930][971]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.01-21.14.44:941][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.08.01-21.14.44:942][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.44:945][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.44:947][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.01-21.14.44:947][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.01-21.14.44:947][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.44:949][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.44:951][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.44:953][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.44:954][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.44:956][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.01-21.14.47:002][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.01-21.14.47:002][971]TextureStreamingBuild: Display: Compiling optional shaders took 2.060 seconds.
+[2020.08.01-21.14.47:007][971]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2020.08.01-21.14.47:009][971]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2020.08.01-21.14.47:017][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.08.01-21.14.47:020][971]LightingResults: New page: Lighting Build - Aug 1, 2020, 1:14:47 PM
+[2020.08.01-21.14.47:028][971]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.01-21.14.47:031][971]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.01-21.14.47:031][971]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.01-21.14.47:032][971]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.01-21.14.47:032][971]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2664
+[2020.08.01-21.14.51:676][971]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.01-21.14.51:676][971]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.01-21.14.51:676][971]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.01-21.14.51:676][971]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.01-21.14.51:676][971]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.01-21.14.51:676][971]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.01-21.14.51:796][971]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.01-21.14.51:796][971]MapCheck: New page: DevMap - Aug 1, 2020, 1:14:51 PM
+[2020.08.01-21.14.51:797][971]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.08.01-21.14.51:797][971]MapCheck: Warning: DesktopPresence_C_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.08.01-21.14.51:797][971]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 0.529ms to complete.
+[2020.08.01-21.14.51:799][971]LogEditorBuildUtils: Build time 0:07
+[2020.08.01-21.14.52:090][972]LogConcert: Display: Synced activity '111' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.14.52:172][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.08.01-21.14.53:788][ 68]Job is a success!
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.01-21.14.53:980][ 69]LogVolumetricLightmapImport:          DevMap 			 6 bricks 	 100.0% (Persistent Level)
+[2020.08.01-21.14.54:012][ 69]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.08.01-21.14.54:012][ 69]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.08.01-21.14.54:012][ 69]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.08.01-21.14.54:012][ 69]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.08.01-21.14.54:012][ 69]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.08.01-21.14.54:012][ 69]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2020.08.01-21.14.54:013][ 69]LogStaticLightingSystem: DevMap_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.08.01-21.14.54:025][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.08.01-21.14.54:068][ 69]Lightmass on DESKTOP-ODFKQ1R: 1.09 sec total, 194 ms importing, 26 ms setup, 73 ms photons, 745 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.21 sec total, 322 ms processing.
+[2020.08.01-21.14.54:115][ 69]LogStaticLightingSystem: Illumination: 6.97 sec (21 ms encoding lightmaps, 6 ms encoding shadowmaps)
+[2020.08.01-21.14.54:115][ 69]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.08.01-21.14.54:115][ 69]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.08.01-21.14.54:684][ 69]DumpUnbuiltLightIteractions
+[2020.08.01-21.14.54:684][ 69]Lights with unbuilt interactions: 0
+[2020.08.01-21.14.54:684][ 69]
+[2020.08.01-21.14.54:684][ 69]Primitives with unbuilt interactions: 0
+[2020.08.01-21.14.54:790][ 70]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.01-21.14.54:790][ 70]MapCheck: New page: DevMap - Aug 1, 2020, 1:14:54 PM
+[2020.08.01-21.14.54:790][ 70]MapCheck: Warning: DesktopPresence_C_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.08.01-21.14.54:791][ 70]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.915ms to complete.
+[2020.08.01-21.14.56:293][201]LogConcert: Display: Synced activity '112' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric locked /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.14.56:517][227]LogSlate: Window 'Message Log' being destroyed
+[2020.08.01-21.14.56:528][227]LogSlate: Window 'Message Log' being destroyed
+[2020.08.01-21.15.02:329][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.01-21.15.02:340][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.08.01-21.15.02:422][894]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap236B88374AA2CF72B45B378DCF311B01.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap.umap'
+[2020.08.01-21.15.02:511][894]LogFileHelpers: Saving map 'DevMap' took 0.183
+[2020.08.01-21.15.02:512][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap_BuiltData" FILE="../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset" SILENT=true
+[2020.08.01-21.15.02:529][894]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Saved/DevMap_BuiltDataB13D4DCD4FC027374F6F2A9C6A8D3D5A.tmp' to '../../../../../../Users/matth/Documents/GitHub/ProjDeadzone/ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset'
+[2020.08.01-21.15.02:664][894]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.01-21.15.02:664][894]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2020.08.01-21.15.02:664][894]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DevMap_BuiltData.DevMap_BuiltData
+[2020.08.01-21.15.35:571][ 62]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2020.08.01-21.15.35:585][ 62]LogConcert: [Pending] Persisting Session Changes
+[2020.08.01-21.15.36:955][ 62]LogSourceControl: commit successful: [master cdb3ab5] test 3 commit
+[2020.08.01-21.15.37:001][ 62]SourceControl: [master cdb3ab5] test 3 commit
+[2020.08.01-21.15.37:001][ 62]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.08.01-21.15.37:001][ 62]SourceControl:  create mode 100644 ProjDeadzone/Content/Maps/DevMap.umap
+[2020.08.01-21.15.37:001][ 62]SourceControl:  create mode 100644 ProjDeadzone/Content/Maps/DevMap_BuiltData.uasset
+[2020.08.01-21.15.37:007][ 62]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2020.08.01-21.15.37:007][ 62]LogConcert: [Success] Successfully Persisted Session Changes - Commited [master cdb3ab5] test 3 commit.
+[2020.08.01-21.15.37:125][ 63]LogConcert: Display: Synced activity '113' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap.
+[2020.08.01-21.15.37:233][ 63]LogConcert: Display: Synced activity '114' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric saved package /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.15.37:236][ 63]LogConcert: Display: Synced activity '115' produced by endpoint '37008484432E98F48DC3878F94EC0E0F': Scytheric unlocked /Game/Maps/DevMap_BuiltData.
+[2020.08.01-21.15.44:879][566]LogSlate: Window 'Persist & Submit Files' being destroyed
